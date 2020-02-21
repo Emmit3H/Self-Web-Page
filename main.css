@@ -1,5 +1,6 @@
-body{
+body {
 background-color: aqua;
+	color: antiquewhite;
 	
 
  }
@@ -7,9 +8,27 @@ background-color: aqua;
 p{
 	
 	color: rebeccapurple;
+	font-size: 15pt; 
 }
 
 h1{
 	
-	color: azure;
+	color: gold;
+	font-family: serif;
+	
+}
+
+h2{
+	color: goldenrod;
+}
+
+.img{
+	
+	vertical-align: bottom;
+	
+}
+.tab{
+	
+	text-align: left;
+
 }
