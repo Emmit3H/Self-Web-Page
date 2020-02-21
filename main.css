@@ -1,5 +1,5 @@
 body {
-	background-color: aqua;
+	background-color: #efffff;
 
 
 
@@ -40,3 +40,8 @@ h2 {
 	text-align:left;
 	color: maroon;
 }
+
+a{
+	color: chartreuse;
+}
+
