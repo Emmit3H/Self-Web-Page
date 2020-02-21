@@ -1,34 +1,41 @@
 body {
-background-color: aqua;
-	color: antiquewhite;
-	
+	background-color: aqua;
 
- }
 
-p{
-	
-	color: rebeccapurple;
-	font-size: 15pt; 
+
 }
 
-h1{
-	
+p {
+
+	color: rebeccapurple;
+	font-size: 15pt;
+}
+
+h1 {
+
 	color: gold;
 	font-family: serif;
-	
+
 }
 
-h2{
+h2 {
 	color: goldenrod;
 }
 
-.img{
-	
+.img {
+
 	vertical-align: bottom;
-	
+
 }
-.tab{
+
+.tab {
+
+	text-align: right;
+
+
+}
+.info{
 	
 	text-align: left;
-
+	text-decoration-color: blueviolet;
 }
