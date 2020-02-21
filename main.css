@@ -30,12 +30,13 @@ h2 {
 
 .tab {
 
-	text-align: right;
+	text-align: center;
+
 
 
 }
 .info{
 	
-	text-align: left;
-	text-decoration-color: blueviolet;
+	text-align:left;
+	color: maroon;
 }
