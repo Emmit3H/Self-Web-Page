@@ -1,27 +1,22 @@
-body {
-	background-color: #efffff;
 
-
-
-}
 
 p {
 	
 font-family: monospace;
-	color: rebeccapurple;
+	
 	font-size: 15pt;
 }
 
 h1 {
 
 	color: gold;
-	font-family: serif;
+
 
 }
 
 h2 {
 	font-family: cursive;
-	color: goldenrod;
+	color: black;
 }
 
 .img {
@@ -44,6 +39,5 @@ h2 {
 }
 
 a{
-	color: chartreuse;
+	color: darkblue;
 }
-a hover:default;
