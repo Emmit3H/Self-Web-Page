@@ -1,29 +1,34 @@
+body {
+	background-color: #efffff;
 
+
+
+}
 
 p {
 	
 font-family: monospace;
-	
+	color: black;
 	font-size: 15pt;
 }
 
 h1 {
 
-	color: gold;
-
+	color: darkblue;
+	
 
 }
 
 h2 {
 	font-family: cursive;
-	color: black;
+	color: darkgreen
 }
 
-.img {
-
+/*img {
+ 
 	vertical-align: bottom;
 
-}
+}*/
 
 .tab {
 
@@ -39,5 +44,6 @@ h2 {
 }
 
 a{
-	color: darkblue;
+	color: chartreuse;
 }
+a hover:default;
